@@ -1,2 +1,4 @@
-this is branch 1
+this is branch 1 and it is the first branch of the tree 
 this is branch 2
+(conflict resolved)
+
